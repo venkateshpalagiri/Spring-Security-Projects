@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/security/pom.xml" />
         <option value="$PROJECT_DIR$/springJwt/pom.xml" />
+        <option value="$PROJECT_DIR$/../Banking/pom.xml" />
+        <option value="$PROJECT_DIR$/customLogin/pom.xml" />
       </list>
     </option>
   </component>
